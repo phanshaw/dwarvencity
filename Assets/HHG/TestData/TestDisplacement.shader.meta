@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a2a74198df59a784c814e75e43c3a3b5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MountainSplat: {fileID: 8400000, guid: 7783844b2d5da48419c7cbee517e12a2, type: 2}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

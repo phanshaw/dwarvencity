@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d327522c78084b448459b205b7c998f, type: 3}
+  m_Name: GathererType_Villager
+  m_EditorClassIdentifier: 
+  _name: Villager
+  _pluralName: Villagers
+  _description: 'A hard working villager. '
+  _icon: {fileID: 21300000, guid: 287fec4f33308304db7534edbe975112, type: 3}
+  _prefabGameObject: {fileID: 5345000229337470742, guid: 6a5c3d2ad0511c14d94b299fbb00e334, type: 3}
+  _resourceModifiers:
+  - _description: Villagers
+    _resource: {fileID: 11400000, guid: 0c9953fb3114a404fb955a5e71e2c769, type: 2}
+    _modifierType: 0
+    _amount: 2.5
+  - _description: Consumption
+    _resource: {fileID: 11400000, guid: 0c9953fb3114a404fb955a5e71e2c769, type: 2}
+    _modifierType: 1
+    _amount: 1

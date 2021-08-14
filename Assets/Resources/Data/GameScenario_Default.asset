@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c912ab8c21087242b65d41676604d2c, type: 3}
+  m_Name: GameScenario_Default
+  m_EditorClassIdentifier: 
+  _scenarioName: Default
+  basePopulationCap: 10
+  _startingUnitTypes:
+  - Type: {fileID: 11400000, guid: d7c1f039dad0bc74bafc193f644cdb0b, type: 2}
+    Amount: 5
+  _startingResources:
+  - Type: {fileID: 11400000, guid: 0c9953fb3114a404fb955a5e71e2c769, type: 2}
+    Amount: 200
+  - Type: {fileID: 11400000, guid: d18e5d4c34b162843935d1d1cfaf19a0, type: 2}
+    Amount: 10
+  - Type: {fileID: 11400000, guid: 7004efa842ad26540a24752be91f22e2, type: 2}
+    Amount: 200

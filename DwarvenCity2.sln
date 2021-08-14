@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParadoxNotion", "ParadoxNotion.csproj", "{c27b4537-04e2-b89f-1416-61e1341247bd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ea7e1306-2b14-1903-cd3a-3b2fec7bd899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{cd6331d9-78ac-c2f4-0106-63d308f4ebb0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmplifyShaderEditor", "AmplifyShaderEditor.csproj", "{c899e586-cfaa-5ecb-8b97-c7756312f433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{037df726-6250-dfca-ee90-7fd68f3cbbd9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{f081614f-504c-8355-3bb7-18d63fa8cfa5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{c27b4537-04e2-b89f-1416-61e1341247bd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c27b4537-04e2-b89f-1416-61e1341247bd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c27b4537-04e2-b89f-1416-61e1341247bd}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{c27b4537-04e2-b89f-1416-61e1341247bd}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ea7e1306-2b14-1903-cd3a-3b2fec7bd899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ea7e1306-2b14-1903-cd3a-3b2fec7bd899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ea7e1306-2b14-1903-cd3a-3b2fec7bd899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ea7e1306-2b14-1903-cd3a-3b2fec7bd899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{cd6331d9-78ac-c2f4-0106-63d308f4ebb0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cd6331d9-78ac-c2f4-0106-63d308f4ebb0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cd6331d9-78ac-c2f4-0106-63d308f4ebb0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{cd6331d9-78ac-c2f4-0106-63d308f4ebb0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{c899e586-cfaa-5ecb-8b97-c7756312f433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c899e586-cfaa-5ecb-8b97-c7756312f433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c899e586-cfaa-5ecb-8b97-c7756312f433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{c899e586-cfaa-5ecb-8b97-c7756312f433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037df726-6250-dfca-ee90-7fd68f3cbbd9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037df726-6250-dfca-ee90-7fd68f3cbbd9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037df726-6250-dfca-ee90-7fd68f3cbbd9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037df726-6250-dfca-ee90-7fd68f3cbbd9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{f081614f-504c-8355-3bb7-18d63fa8cfa5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f081614f-504c-8355-3bb7-18d63fa8cfa5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f081614f-504c-8355-3bb7-18d63fa8cfa5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{f081614f-504c-8355-3bb7-18d63fa8cfa5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b50824ec917ad442b3334b6891e4ae6, type: 3}
+  m_Name: SeasonType_Winter
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: 1fa8be986a25e0a4792005ceac6eecc7, type: 3}
+  _seasonName: Winter
+  _description: Winter lowers food production. Your population will use more wood
+    to keep warm.
+  _durationSeconds: 20
+  _globalResourceModifiers:
+  - _description: Scarcity
+    _resource: {fileID: 11400000, guid: 0c9953fb3114a404fb955a5e71e2c769, type: 2}
+    _modifierType: 2
+    _amount: 0.5
+  - _description: Firewood
+    _resource: {fileID: 11400000, guid: 7004efa842ad26540a24752be91f22e2, type: 2}
+    _modifierType: 3
+    _amount: 0.5
